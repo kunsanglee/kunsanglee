@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&width=100%&height=200&section=header&text=Kunsang%20Lee&fontSize=70&fontAlignY=40" />
   
   
-  <img src="https://user-images.githubusercontent.com/121557816/219572217-49ff33aa-130c-4842-ab91-7d426a36f1cc.jpg" width="354" height="472">
+  <img src="https://user-images.githubusercontent.com/121557816/219572217-49ff33aa-130c-4842-ab91-7d426a36f1cc.jpg" width="225" height="300">
   <h1> Hello!<br><br>I'm Back-End developer </h1>
   
 <!--   
