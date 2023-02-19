@@ -5,14 +5,9 @@
   <img src="https://user-images.githubusercontent.com/121557816/219572217-49ff33aa-130c-4842-ab91-7d426a36f1cc.jpg" width="225" height="300">
   <h1> Hello!<br><br>I'm Back-End developer </h1>
   
-<!--   
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkunsanglee%2Fhit-counter&count_bg=%23B6B6B6&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) -->
   
-  <br><br>
+  <br><br><br>
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kunsanglee&layout=compact)](https://github.com/kunsanglee/github-readme-stats)
-
-  <br><br>
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kunsanglee&show_icons=true&theme=graywhite)
   
@@ -48,7 +43,11 @@
     <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white">
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">
     <img src="https://img.shields.io/badge/MySQL Workbench-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
-  </p><br><br><br>
+  </p>
+  
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkunsanglee%2Fhit-counter&count_bg=%23A0A0A0&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=&edge_flat=false"/></a>
+  
+  <br><br><br>
 
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=footer&text=🫧🦭&fontSize=50&fontAlignY=30" />
