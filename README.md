@@ -3,7 +3,8 @@
   
   
   <img src="https://user-images.githubusercontent.com/121557816/219572217-49ff33aa-130c-4842-ab91-7d426a36f1cc.jpg" width="225" height="300">
-  <h1> Hello!<br><br>I'm Back-End developer </h1>
+  <h2> 안녕하세요!</h2><br>
+  <h3>지금  해야할 것에 집중하는 개발자 이건상입니다</h3>
   
   
   <br><br><br>
@@ -13,29 +14,21 @@
   
   
   <br><br><br>
-  <h1> Skill </h1>
+  <h1> 기술스택 </h1>
   <img src="https://img.shields.io/badge/Java-F80000?style=for-the-badge&logo=&logoColor=white"/>
   <img src="https://img.shields.io/badge/JS-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/>  
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=Spring%20Boot&logoColor=white"/>
   <img src="https://img.shields.io/badge/Ajax-white?style=for-the-badge&logo=&logoColor=white"/>
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jQuery&logoColor=white"/>
   <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=Thymeleaf&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"/><br>
   <img src="https://img.shields.io/badge/Oracle%20SQL-F80000?style=for-the-badge&logo=Oracle&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MyBatis-black?style=for-the-badge&logo=MyBatis&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JPA-white?style=for-the-badge&logo=&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=Amazon%20AWS&logoColor=white"/><br><br><br>
+  <img src="https://img.shields.io/badge/MyBatis-black?style=for-the-badge&logo=MyBatis&logoColor=white"/><br><br><br>
   
-  <h1> Collaboration Tool </h1>
+  <h1> 협업툴 </h1>
   <p>
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"> 
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"> 
-    <img src="https://img.shields.io/badge/ERD Cloud-EEEEEE?style=for-the-badge&logo=ERDCloud&logoColor=white">
   </p></br>
   <h1> ETC </h1>
   <p>
