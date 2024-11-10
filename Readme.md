@@ -2,6 +2,6 @@
 <img
   src="https://render.gitanimals.org/farms/kunsanglee"
   width="900"
-  height="450"
+  height="300"
 />
 </a>
